@@ -27,7 +27,7 @@ A custom token built on Solana using Token-2022 standard.
 ---
 
 ## 🖼️ Logo
-![Stoiclabs](./logo.png)
+![Stoiclabs](./StoicLabs%20Logo.png)
 
 ---
 

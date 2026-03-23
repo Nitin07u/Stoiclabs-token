@@ -1,6 +1,6 @@
 {
-  "name": "Stoiclabs Token",
+  "name": "Stoiclabs",
   "symbol": "STOIC",
-  "description": "StoicLabs Token is built on Solana to deliver lightning-fast, scalable, and efficient transactions—driving the future of decentralized applications.",
-  "image": "https://ipfs.io/ipfs/bafkreiddcwvqipvwdmttltge7wwywqlvumuunhr5fnquuq2vdgnbvymtwa"
+  "description": "Stoiclabs is a Solana-based token focused on fast and scalable decentralized applications.",
+  "image": "https://raw.githubusercontent.com/nitin07u/stoiclabs-token/main/logo.png"
 }
